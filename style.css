@@ -1,0 +1,96 @@
+.bg {
+    background-image: url("img/background.jpg");
+    background-repeat: no-repeat;
+    height: 100%;
+    margin: 2%;
+    border-radius: 5px;
+    background-size: cover;
+}
+
+.centra {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    
+}
+
+header>img {
+    padding: 5px;
+    width: 70%;
+}
+
+header>h1 {
+    color: limegreen;
+}
+
+.box {
+    align-content: space-around;
+    background-color: rgba(69, 69, 75, 0.5);
+}
+
+main{
+    padding-left: 2%;
+    padding-bottom: 2%;
+}
+
+section {
+    text-align: left;
+    margin-left: 2%;
+    margin-bottom: 5%;
+    color: white;
+}
+
+section > h2{
+    margin-bottom: 3px;
+}
+
+.white-box { 
+    width: 10px; 
+    height: 10px; 
+    border: 1px solid white; 
+    background: white; 
+    display: inline-block;
+}
+
+nav > button{
+    display: inline;
+}
+
+#nav {
+    margin: 25px 25px 1px 25px;
+    text-align: center;
+    width: auto;
+    border-radius: 5px;
+    background-color: lime;
+}
+
+
+#carica1{
+    display: block;
+    height: 20px;
+    margin-top: 3px;
+    border: 1px solid orange;
+    background-color: orange;
+    border-radius: 50px;
+    width: 30%;
+}
+
+#carica2{
+    display: block;
+    height: 20px;
+    margin-top: 3px;
+    border: 1px solid lime;
+    background-color: lime;
+    border-radius: 50px;
+    width: 60%;
+}
+
+#carica3{
+    display: block;
+    height: 20px;
+    margin-top: 3px;
+    border: 1px solid tomato;
+    background-color: tomato;
+    border-radius: 50px;
+    width: 20%;
+}
